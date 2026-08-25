@@ -21,7 +21,7 @@ The experiments use a color-biased version of CIFAR-10.
 - OOD test samples: 10,000
 - Image size: 32 × 32
 - Batch size: 128
-- Optimizer: Adam
+- Optimizer: Adam (Adaptive Moment Estimation) optimization algorithm
 - Learning rate: 0.001
 - Training epochs: 71
 - Random seed: 42
