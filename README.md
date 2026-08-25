@@ -72,11 +72,11 @@ spatial-spectral-bottleneck/
 ├── notebooks/
 └── research paper/
 
-## Reproducibility
+ Reproducibility
 
 The complete experimental implementation is provided in:
 
-**[`notebooks/spatial_spectral_bottleneck_experiments.ipynb`](notebooks/spatial_spectral_bottleneck_experiments.ipynb)**
+[`notebooks/spatial_spectral_bottleneck_experiments.ipynb`](notebooks/spatial_spectral_bottleneck_experiments.ipynb)
 
 The notebook includes:
 
@@ -93,23 +93,23 @@ The CIFAR-10 dataset is downloaded programmatically during notebook execution an
 
 ---
 
-## Research Paper
+Research Paper
 
 The complete research paper is available here:
 
-**[`spatial_spectral_bottleneck.pdf`](research paper/spatial_spectral_bottleneck.pdf)**
+[`spatial_spectral_bottleneck.pdf`](research paper/spatial_spectral_bottleneck.pdf)
 
-> *The Spatial-Spectral Bottleneck: How Local Attention Constraints Amplify Color Shortcuts in Convolutional Neural Networks*
+> The Spatial-Spectral Bottleneck: How Local Attention Constraints Amplify Color Shortcuts in Convolutional Neural Networks
 
 ---
 
-##  Authors
+  Authors
 
-**Aditya Jhamnani**  
-**Sarim Kazmi**  
-**Dr. Monica Tolani**  
-**Gunjan Gyanchandani**  
-**Hemang Ganjsinghani**
+Aditya Jhamnani 
+Sarim Kazmi
+Dr. Monica Tolani  
+Gunjan Gyanchandani  
+Hemang Ganjsinghani
 
-**Department of Artificial Intelligence and Data Science**  
-**Thadomal Shahani Engineering College**
+Department of Artificial Intelligence and Data Science
+Thadomal Shahani Engineering College
